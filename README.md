@@ -18,8 +18,8 @@ Mobile
 
 ### Links
 
-- Solution URL: <a href="https://www.frontendmentor.io/solutions/qrcode-flex-i7vcWmLNrK"> Frontendmentor</a>
-- Live Site URL: <a href="https://alexandremsantosjob.github.io/DESAFIO-QR-CODE/"> GitHub</a>
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/column-card-flexgrid-A4ddNGh37-"> Frontendmentor</a>
+- Live Site URL: <a href="https://alexandremsantosjob.github.io/desafio-column-card-component/"> GitHub</a>
 
 
 ### Built with
