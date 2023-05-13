@@ -10,10 +10,10 @@
 
 ### Screenshot
 
-Desktop (1440px)
+Desktop
 ![](https://imgtr.ee/images/2023/05/13/ljdb3.png)
 
-Mobile (375px)
+Mobile
 ![](https://imgtr.ee/images/2023/05/13/ljxNm.png)
 
 ### Links
